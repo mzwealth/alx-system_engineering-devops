@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "pwd is the command that prints the absolute path name of the current working directory"
+Task 0: pwd is the command that prints the path name of the current working directory
