@@ -1,2 +1,2 @@
 #!/bin/bash
-standard output
+echo "Hello World"
